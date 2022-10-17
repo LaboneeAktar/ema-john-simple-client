@@ -1,0 +1,26 @@
+.header {
+  height: 80px;
+  background-color: #1c2b35;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 140px;
+  padding-right: 140px;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  margin-left: 30px;
+  font-family: "Roboto Slab", serif;
+}
+
+.header a:hover {
+  color: crimson;
+}
+
+.activeStyle {
+  background-color: rgb(78, 3, 19);
+  padding: 10px;
+  border-radius: 8px;
+}
