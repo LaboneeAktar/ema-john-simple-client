@@ -7,9 +7,10 @@
   padding: 15px;
 }
 
-.cart button {
+.cart button,
+.btn-shipping {
   padding: 10px 20px;
-  margin: 10px;
+  margin-bottom: 10px;
   background-color: crimson;
   border: none;
   color: white;

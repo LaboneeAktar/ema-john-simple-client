@@ -24,3 +24,14 @@
   padding: 10px;
   border-radius: 8px;
 }
+
+.btn-logout {
+  background-color: rgb(207, 84, 111);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  margin-left: 25px;
+  font-family: "Roboto Slab", serif;
+  font-size: 16px;
+}
