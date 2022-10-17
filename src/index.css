@@ -3,7 +3,8 @@ body {
   font-family: "Roboto Slab", serif;
 }
 
-h3 {
+h3,
+h1 {
   font-family: "Lobster", cursive;
 }
 

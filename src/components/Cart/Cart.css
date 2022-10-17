@@ -1,8 +1,18 @@
 .cart {
-    position: sticky;
-    top: 10px;
+  position: sticky;
+  top: 10px;
 }
 
 .cart-details {
-    padding: 15px;
+  padding: 15px;
+}
+
+.cart button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: crimson;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  width: 90%;
 }
